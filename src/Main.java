@@ -248,8 +248,36 @@ public class Main {
 //        System.out.printf("The price of a ticket is $%.2f", price);
 
 
-        //
-
+//        // String operations
+//        String name = "Lionel Messi";
+//
+//        int length = name.length();
+//        char letter = name.charAt(0);
+//        int index = name.indexOf('e');
+//        int lastIndex = name.lastIndexOf('e');
+//
+//        name = name.toUpperCase();
+//        name = name.toLowerCase();
+//        name = name.trim();
+//        name = name.replace('e', 'o');
+//
+//          if (name.isEmpty()){
+//              System.out.println("Your name is empty !");
+//          } else{
+//              System.out.println("Hello " + name);
+//          }
+//
+//        if (name.contains(" ")){
+//            System.out.println("Your name contains an empty space !");
+//        } else{
+//            System.out.println("Your name doesn't contain an empty space !");
+//        }
+//
+//        if (name.equals("password")){
+//            System.out.println("Name can't be password !!");
+//        } else{
+//            System.out.println("Hello " + name);
+//        }
 
 
 
