@@ -1,5 +1,6 @@
 //import javax.xml.transform.Source;
 import java.util.Scanner;
+import java.util.Random;
 
 public class Main {
     public static void main(String[] args){
@@ -128,7 +129,22 @@ public class Main {
 //        scanner.close();
 
 
-        //
+        // Random module
+        Random random = new Random();
+
+        int number;
+        boolean toss;
+        number = random.nextInt(1, 7);
+        toss = random.nextBoolean();
+
+        System.out.println(number);
+        if (toss) {
+            System.out.println("HEADS");
+        } else {
+            System.out.println("TAILS");
+        }
+
+
 
     }
 }
