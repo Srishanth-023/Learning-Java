@@ -192,37 +192,36 @@ public class Main {
 //        scanner.close();
 
 
-    //    // printf();
-    //    // %[specifier character][.precision][flags][width]
+//        // printf();
+//        // %[specifier character][.precision][flags][width]
+//
+//        // %[specifier character] %f for double, %c for char, %s for string, %b for bool
+//        int age = 18;
+//        System.out.printf("Your age is %d", age);
+//
+//        // %[.precision]
+//        double pi = 3.1415;
+//        System.out.printf("\nThe value of pi is %.2f", pi);
+//
+//        // %[flags] '+', ',', '(', ' ' --> A minus if neg. or space if pos.
+//        double number1 = 5100000.558;
+//        double number2 = -999849465.255544;
+//        System.out.printf("\n%+,f", number1);
+//        System.out.printf("\n%+,(f", number2);
+//
+//        // %[width] number, neg.num, 0 --> padding
+//        int id1 = 1;
+//        int id2 = 23;
+//        int id3 = 456;
+//        int id4 = 7890;
+//
+//        System.out.printf("\n%04d", id1);
+//        System.out.printf("\n%4d", id2);
+//        System.out.printf("\n%-4d", id3);
+//        System.out.printf("\n%d", id4);
 
-    //    // %[specifier character] %f for double, %c for char, %s for string, %b for bool
-    //    int age = 18;
-    //    System.out.printf("Your age is %d", age);
 
-    //    // %[.precision]
-    //    double pi = 3.1415;
-    //    System.out.printf("\nThe value of pi is %.2f", pi);
-
-    //    // %[flags] '+', ',', '(', ' ' --> A minus if neg. or space if pos.
-    //    double number1 = 5100000.558;
-    //    double number2 = -999849465.255544;
-    //    System.out.printf("\n%+,f", number1);
-    //    System.out.printf("\n%+,(f", number2);
-
-    //    // %[width] number, neg.num, 0 --> padding
-    //    int id1 = 1;
-    //    int id2 = 23;
-    //    int id3 = 456;
-    //    int id4 = 7890;
-
-    //    System.out.printf("\n%04d", id1);
-    //    System.out.printf("\n%4d", id2);
-    //    System.out.printf("\n%-4d", id3);
-    //    System.out.printf("\n%d", id4);
-
-
-        // Next topic
-        
+        //
 
     }
 }
