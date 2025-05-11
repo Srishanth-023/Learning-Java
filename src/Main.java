@@ -1,5 +1,5 @@
 //import javax.xml.transform.Source;
-//import java.util.Scanner;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args){
@@ -95,8 +95,40 @@ public class Main {
 //        System.out.println(result);
 
 
-        //
+//        // Conditionals
+//        Scanner scanner = new Scanner(System.in);
+//
+//        String name;
+//        int age;
+//
+//        System.out.print("Enter your name: ");
+//        name = scanner.nextLine();
+//        System.out.print("Enter your age: ");
+//        age = scanner.nextInt();
+//
+//        if (name.isEmpty()) {
+//            System.out.println("\nYou didn't enter your name !!");
+//        } else {
+//            System.out.println("\nWelcome " + name + "!");
+//        }
+//
+//
+//        if (age >= 65) {
+//            System.out.println("You are a senior citizen");
+//        } else if (age >= 18) {
+//            System.out.println("You are an adult");
+//        } else if (age < 0) {
+//            System.out.println("You haven't been born yet !");
+//        } else if (age == 0) {
+//            System.out.println("You are a baby");
+//        } else {
+//            System.out.println("You are a child");
+//        }
+//
+//        scanner.close();
 
+
+        //
 
     }
 }
