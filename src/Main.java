@@ -129,20 +129,70 @@ public class Main {
 //        scanner.close();
 
 
-        // Random module
-        Random random = new Random();
+//        // Random module
+//        Random random = new Random();
+//
+//        int number;
+//        boolean toss;
+//        number = random.nextInt(1, 7);
+//        toss = random.nextBoolean();
+//
+//        System.out.println(number);
+//        if (toss) {
+//            System.out.println("HEADS");
+//        } else {
+//            System.out.println("TAILS");
+//        }
 
-        int number;
-        boolean toss;
-        number = random.nextInt(1, 7);
-        toss = random.nextBoolean();
 
-        System.out.println(number);
-        if (toss) {
-            System.out.println("HEADS");
-        } else {
-            System.out.println("TAILS");
-        }
+//        // Math operations
+//        double result;
+//
+//        result = Math.pow(3, 2);
+//        result = Math.ceil(3.14);
+//        result = Math.floor(3.14);
+//        result = Math.round(3.14);
+//        result = Math.sqrt(9);
+//        result = Math.max(3, 2);
+//        result = Math.min(3, 2);
+//        result = Math.abs(-3);
+//
+//        System.out.println(result);
+//
+//        // Problem - 1: Hypotenuse (c = a² + b²)
+//        Scanner scanner = new Scanner(System.in);
+//
+//        double a, b, c;
+//
+//        System.out.print("Enter the side 'a': ");
+//        a = scanner.nextDouble();
+//        System.out.print("Enter the side 'b': ");
+//        b = scanner.nextDouble();
+//
+//        c = Math.sqrt(Math.pow(a, 2) + Math.pow(b, 2));
+//        System.out.println("The hyp. is " + c + " cm");
+//
+//        scanner.close();
+//
+//        // Problem - 2: Circumference, Area and Volume of a circle
+//        Scanner scanner = new Scanner(System.in);
+//
+//        double radius, circumference, area, volume;
+//        System.out.print("Enter the radius of the circle: ");
+//        radius = scanner.nextDouble();
+//
+//        circumference = 2 * Math.PI * radius;
+//        area = Math.PI * Math.pow(radius, 2);
+//        volume = (4.0 / 3.0) * Math.PI * Math.pow(radius, 3);
+//
+//        System.out.printf("The area of the circle is: %.2f cm\n", circumference);
+//        System.out.printf("The area of the circle is: %.2f cm\n", area);
+//        System.out.printf("The area of the circle is: %.2f cm", volume);
+//
+//        scanner.close();
+
+
+        //
 
 
 
