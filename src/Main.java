@@ -1,5 +1,5 @@
-import javax.xml.transform.Source;
-import java.util.Scanner;
+//import javax.xml.transform.Source;
+//import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args){
@@ -79,6 +79,23 @@ public class Main {
 //        area = width * height;
 //        System.out.println("The area of the triangle is: " + area + "cm²");
 
+
+//         // Arithmetic Operators
+//         int x = 10, y = 3, z, a;
+//
+//         z = x + y;
+//         a = x % y;
+//         x += 1;
+//         y--;
+//
+//        System.out.println(z + " " + a + " " + x + " " + y);
+//
+//        // Order of operations [P-E-M-D-A-S]
+//        double result = 3 * 4 - (8 - 3) + Math.pow(2, 2) / 2.0;
+//        System.out.println(result);
+
+
+        //
 
 
     }
