@@ -273,14 +273,33 @@ public class Main {
 //            System.out.println("Your name doesn't contain an empty space !");
 //        }
 //
-//        if (name.equals("password")){
+//        if (name.equals("password")){  //equalsIgnoreCase --> Ignores Case sensitivity
 //            System.out.println("Name can't be password !!");
 //        } else{
 //            System.out.println("Hello " + name);
 //        }
 
 
+//        // Substring
+//        Scanner scanner = new Scanner(System.in);
+//
+//        System.out.print("Enter you email address: ");
+//        String email = scanner.nextLine();
+//
+//        if (email.contains("@")){
+//            String username = email.substring(0, email.indexOf('@'));
+//            String domain = email.substring(email.indexOf('@') + 1);
+//
+//            System.out.println(username);
+//            System.out.println(domain);
+//        } else {
+//            System.out.println("Your email must contain @");
+//        }
+//
+//        scanner.close();
 
+
+        //
 
     }
 }
