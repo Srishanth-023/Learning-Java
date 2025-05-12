@@ -1,4 +1,5 @@
 //import javax.xml.transform.Source;
+import java.security.spec.RSAOtherPrimeInfo;
 import java.util.Scanner;
 import java.util.Random;
 
@@ -299,24 +300,21 @@ public class Main {
 //        scanner.close();
 
 
+//        // Ternary operator
+//        int age = 18;
+//        int salary = 10000000;
+//
+//        String minorOrMajor = (age >= 18) ? "MAJOR" : "MINOR";
+//        double taxRate = (salary >= 500000) ? 0.25 : 0.15;
+//
+//        System.out.println(minorOrMajor);
+//        System.out.println(taxRate);
+
+
         //
 
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
