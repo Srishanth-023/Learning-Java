@@ -311,6 +311,21 @@ public class Main {
 //        System.out.println(taxRate);
 
 
+//        // Switch and Enhanced switch
+//        Scanner scanner = new Scanner(System.in);
+//
+//        System.out.print("Enter a day of the week: ");
+//        String day = scanner.nextLine();
+//
+//        switch (day){
+//            case "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" -> System.out.println("It a weekday 🥲");
+//            case "Saturday", "Sunday" -> System.out.println("It's weekend 😁");
+//            default -> System.out.println(day + " is not a day !");
+//        }
+//
+//        scanner.close();
+
+
         //
 
     }
