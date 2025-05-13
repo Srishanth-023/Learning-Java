@@ -358,8 +358,54 @@ public class Main {
 //        scanner.close();
 
 
-        //
+//        // While loop
+//        Scanner scanner = new Scanner(System.in);
+//
+//        String name = "";
+//
+//        while (name.isEmpty()){
+//            System.out.print("Enter your name: ");
+//            name = scanner.nextLine();
+//        }
+//
+//        System.out.println("Hello " + name);
+//
+//        String response = "";
+//
+//        while (!response.equals("Q")){
+//            System.out.println("You are playing a game !");
+//            System.out.print("Enter 'Q' to quit: ");
+//            response = scanner.nextLine().toUpperCase();
+//        }
+//
+//        System.out.println("\nYou have quit the game");
+//
+//        int age;
+//
+//        System.out.print("Enter your age: ");
+//        age = scanner.nextInt();
+//
+//        while (age < 0){
+//            System.out.println("Your age can't be negative !");
+//            System.out.print("Enter your age: ");
+//            age = scanner.nextInt();
+//        }
+//
+//        System.out.println("You age is " + age);
+//
+//        int number = 0;
+//
+//        do {
+//            System.out.print("Pick a number between 1-10 (both inclusive): ");
+//            number = scanner.nextInt();
+//        } while (number < 1 || number > 10);
+//
+//        System.out.println("You picked " + number);
+//
+//        scanner.close();
 
+
+        //
     }
 }
 
