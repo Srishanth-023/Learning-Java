@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.Random;
 
 public class Main {
-    public static void main(String[] args){
+    public static void main(String[] args) throws InterruptedException {
 
 //        // Printing to the console
 //        System.out.println("I like Pizza !");
@@ -405,7 +405,32 @@ public class Main {
 //        scanner.close();
 
 
-        //
+//        // For loop
+//
+//        int number = 10;
+//        for (int i = 1; i <= number; i++){
+//            System.out.println(i);
+//        }
+//
+//        int seconds;
+//        Scanner scanner = new Scanner(System.in);
+//
+//        System.out.print("Enter the number of seconds you want to count down ⌛: ");
+//        seconds = scanner.nextInt();
+//
+//        for (int i = seconds; i > 0; i--){
+//            System.out.println(i);
+//            Thread.sleep(1000);
+//        }
+//
+//        System.out.println("\nHAPPY NEW YEAR 🥳");
+//
+//        scanner.close();
+
+
+
+
+
     }
 }
 
